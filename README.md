@@ -27,8 +27,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=santoshmcode">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Santosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshmcode&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sumansaksh">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Santosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansaksh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -44,8 +44,7 @@
 
 <p align="left">
 
-<a href = "https://twitter.com/santoshcodes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/santoshcodes/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/suman-sakshi-751188218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 
@@ -60,7 +59,7 @@
 
 
 <!---
-santoshmcode/santoshmcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sumansaksh/sumansaksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 © 2022 GitHub, Inc.
