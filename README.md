@@ -45,6 +45,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/suman-sakshi-751188218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://twitter.com/sumansakshi7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 
