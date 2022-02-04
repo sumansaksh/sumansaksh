@@ -34,9 +34,6 @@
 
 ## 📊 My Github Stats
 <br/>
-
-<a href="https://activity-graph.herokuapp.com/graph?username=sumansaksh"><img alt="Suman's Activity Graph" src="" /></a>
-
 <br/>
 <br/>
 
