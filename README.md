@@ -1,66 +1,54 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm suman</h1>
-<h3 align="center">I'm a passionate Full Stack Developer  :india:</h3>
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Suman and I like coading" src="./name.svg" />
+  <br />
+  <br />
 
-## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
+</div>
 
--   👨‍💻 Connect with me **[@suman](https://www.linkedin.com/in/suman-sakshi-751188218/)**
+## 🛠 Technologies and tools
 
--   🌱 I’m currently learning **Every thing😁**
-
--   <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking for a job </p>
-
-
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<p>
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/javascript-282C34?logo=javascript&logoColor=" alt="javascript logo" title="javascript" height="25" />
+<img src="https://img.shields.io/badge/css3-282C34?logo=css3&logoColor=E34F26" alt="css3 logo" title="css3" height="25" />
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />
+<img src="https://img.shields.io/badge/Tailwind css-282C34?logo=Tailwind css" alt="Tailwind css logo" title="Tailwind css" height="25" />
+<img src="https://img.shields.io/badge/Node js-282C34?logo=nodedotjs" alt="Node js logo" title="Node js" height="25" />
+<img src="https://img.shields.io/badge/express js-282C34?logo=express" alt="express js logo" title="express js" height="25" />
+<img src="https://img.shields.io/badge/mongodb-282C34?logo=mongodb" alt="mongodb logo" title="mongodb" height="25" />
+<img src="https://img.shields.io/badge/NPM-282C34?logo=NPM" alt="NPM logo" title="NPM" height="25" />
+<img src="https://img.shields.io/badge/postman-282C34?logo=postman" alt="postman logo" title="postman" height="25" />
+<img src="https://img.shields.io/badge/GIT-282C34?logo=GIT" alt="GIT logo" title="GIT" height="25" />
+<img src="https://img.shields.io/badge/GITHUB-282C34?logo=GITHUB" alt="GITHUB logo" title="GITHUB" height="25" />
+<img src="https://img.shields.io/badge/React-282C34?logo=React" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?logo=Redux" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Styled components-282C34?logo=Styled components" alt="Styled components logo" title="Styled components" height="25" />
 </p>
 
 
-<br/>
 
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sumansaksh">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Santosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansaksh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+## 🤝lets connect
 
-## 📊 My Github Stats
-<br/>
-<br/>
-<br/>
 
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/suman-sakshi-751188218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://twitter.com/sumansakshi7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/suman-sakshi-751188218/)
+[<img src="https://img.shields.io/badge/GMAIL-282C34?logo=gmail&logoColor=E34F26" alt="GMAIL LOGO" />](https://www.linkedin.com/in/suman-sakshi-751188218/)
 
 
 
-</p>
-
-## ❤ Views and Followers
+##  ❤ Views and Followers
 
 <a href="https://komarev.com/ghpvc/?username=sumansaksh">
     <img src="https://komarev.com/ghpvc/?username=sumansaksh">
 </a>
 <a href="https://img.shields.io/github/followers/sumansaksh"><img src="https://img.shields.io/github/followers/sumansaksh?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<!-- footer thanks -->
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+</div>
 
-<!---
-sumansaksh/sumansaksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
