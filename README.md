@@ -9,11 +9,11 @@
 
 </div>
 
-🔭 I’m currently working as Instructional Asociate at masai
+🔭 I’m currently working as an Instructional Associate at Masai School
 
-🌱 I’m currently learning Backend development
+🌱 I’m currently learning MERN-STACK
 
-🤝 I am always open and excited to learn and work with like minded people and want to be a successful developer.
+🤝 I am always open and excited to learn and work in a group.
 
 ## 🛠 Technologies and tools
 
