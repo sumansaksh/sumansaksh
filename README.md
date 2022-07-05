@@ -9,6 +9,12 @@
 
 </div>
 
+🔭 I’m currently working as Instructional Asociate at masai
+
+🌱 I’m currently learning Backend development
+
+🤝 I am always open and excited to learn and work with like minded people and want to be a successful developer.
+
 ## 🛠 Technologies and tools
 
 <p>
